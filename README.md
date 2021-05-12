@@ -8,7 +8,7 @@ Na zpracování úkolu máte 24hod!
 4) Vyberte pro každou značku nejstarší vůz s nejvyšším počtem ujetých kilometrů.
 
 Bonusový úkol:
-Z zdrojových tabulek připravte přehled (nástroj: PowerBI, Excel apod.), který bude obsahovat několik measures a vizuálních prvků.
+Ze zdrojových tabulek připravte přehled (nástroj: PowerBI, Excel apod.), který bude obsahovat několik measures a vizuálních prvků.
 
 
 Doporučené ke stažení:
